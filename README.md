@@ -12,16 +12,9 @@ pip install pandas
 
 ## Usage
 
-To use this program, follow these steps:
-
-1. **Prepare Your Excel Files**: Ensure your Excel files are accessible and the paths to them are known.
-2. **Run the Program**: Use the command line to navigate to the directory containing this program. Run it by specifying the Python interpreter, the script name, and the paths to the Excel files you want to load. For example:
-
 ```
-python programname.py file1.xlsx file2.xlsx file3.xlsx
+python load_df.py file1.xlsx file2.xlsx file3.xlsx
 ```
-
-Replace `programname.py` with the actual name of this script, and `file1.xlsx file2.xlsx file3.xlsx` with the paths to your Excel files.
 
 ## Features
 
